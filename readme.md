@@ -2,7 +2,7 @@
 
 **A compact, 3D-printed heart rate monitor powered by an ESP8266 microcontroller and a MAX30102 pulse sensor. Open source and easy to build – ideal for makers, students, and tinkerers.**
 
-![device](oneHertz.png)
+![device](/documentation/title_page.jpeg)
 
 ## ✨ Project Highlights
 
