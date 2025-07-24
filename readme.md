@@ -23,7 +23,7 @@ The device uses a MAX30102 sensor to detect heartbeats via infrared light absorp
 ## 🔧 Components
 
 - **Wemos D1 mini** (ESP8266)
-- **SSD1306 OLED display** (0.96", I2C, 128x64)
+- **SSD1306 OLED display** (0.66", I2C, 64x48)
 - **MAX30102 pulse sensor**
 - **Custom 3D-printed case** (STL files provided)
 - Basic wiring and soldering tools
