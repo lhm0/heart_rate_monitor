@@ -56,7 +56,8 @@ The device uses a MAX30102 sensor to detect heartbeats via infrared light absorp
 
 ## 🖨️ 3D Printing
 
-STL files for the enclosure are located in the `3d_print` folder. All parts are optimized for FDM printers and require no supports. Assembly instructions are available in the upcoming Instructables article and YouTube video.
+STL files for the enclosure are located in the `3d_print` folder. All parts are optimized for FDM printers and require no supports. However, the "top" housing part consists of two objects ("text1" and "top1"). You might use different color filaments for these objects. Check the parts "top" and "clamp" for inserted nuts. "top" has 6 inserted M2 nuts, "clamp" has 1 inserted M2 nut. When printing "top" and "clamp", include pauses in order to insert the nuts. 
+Assembly instructions are available in the upcoming Instructables article and YouTube video.
 
 ---
 
