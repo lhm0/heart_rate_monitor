@@ -63,8 +63,9 @@ Assembly instructions are available in the upcoming Instructables article and Yo
 
 ## 🎥 Demo Video
 
-👉 *Coming soon: A full demo and build guide on YouTube!*
+👉 You will find a full demo and build guide on YouTube!*
 
+[![Watch the video](https://img.youtube.com/vi/1OFFsdR9g3k/0.jpg)](https://youtu.be/1OFFsdR9g3k?si=7qdeFqzZe1TYMX6L)
 ---
 
 ## 🧩 License
